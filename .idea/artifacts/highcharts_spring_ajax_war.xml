@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="highcharts-spring-ajax:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="highcharts.war">
-      <element id="artifact" artifact-name="highcharts-spring-ajax:war exploded" />
-    </root>
-  </artifact>
-</component>
