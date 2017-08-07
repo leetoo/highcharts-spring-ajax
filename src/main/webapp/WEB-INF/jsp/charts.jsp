@@ -92,7 +92,7 @@
 <div id="footer">
     <div class="container">
         <div class="row">
-            <p class="text-center"><small>Copyright &copy; 2013 <a href="http://some.link.com">SomeLink Inc.</a> All rights reserve.</small></p>
+            <p class="text-center"><small>Copyright &copy; 2017 <a href="http://some.link.com">SomeLink Inc.</a> All rights reserve By Me :) .</small></p>
         </div>
 
     </div>
